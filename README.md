@@ -52,7 +52,7 @@ iot-rest-api-node-red/
 ├── node-red/
 │   └── flow.json
 ├── database/
-│   └── README.md
+    └── README.md
 ```
 
 ## Cara Menjalankan
